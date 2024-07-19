@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning ReactJs,NextJs
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me shubhampanse938@gmail.com
 
 <!---
 Ethernos9/Ethernos9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
