@@ -36,9 +36,9 @@ Welcome to my GitHub profile! I’m passionate about full Stack Development and 
 
 ---
 
-## ⌨️ Typing Animation
+## ⌨️ 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Ethernos9;I'm+a+Web+Developer;I+❤️+React+and+Next.js" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Hi,+I'm+Ethernos9;I'm+a+Web+Developer;I+❤️+React+and+ExpressJs" />
 </div>
 
 ---
